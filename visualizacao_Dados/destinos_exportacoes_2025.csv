@@ -1,0 +1,16 @@
+Produto,Pais,Valor_US$Bi,Setor
+Soja,China,20,Agropecuário
+Soja,Espanha,5,Agropecuário
+Soja,Holanda,4,Agropecuário
+Petroleo,EUA,10,Extrativo
+Petroleo,China,8,Extrativo
+Petroleo,India,6,Extrativo
+Minerio_de_Ferro,China,12,Extrativo
+Minerio_de_Ferro,Japao,7,Extrativo
+Minerio_de_Ferro,Alemanha,5,Extrativo
+Carne_Bovina,EUA,4,Agropecuário
+Carne_Bovina,China,3,Agropecuário
+Carne_Bovina,Chile,2,Agropecuário
+Açucar,Marrocos,2,Agropecuário
+Açucar,Argélia,1.5,Agropecuário
+Açucar,EUA,1,Agropecuário
