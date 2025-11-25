@@ -57,14 +57,41 @@ Utilizamos a [API SGS do Banco Central do Brasil](https://dadosabertos.bcb.gov.b
 - Gráfico funcional e informativo
 - Base para expandir com câmbio e taxa Selic
 
+## 📈 Resultados
+
+### Estatísticas básicas
+- Média, mediana, moda e desvio padrão do IPCA mensal (2014–2024)
+
+### Gráficos gerados
+1. **IPCA mensal (linha temporal)**  
+   ![IPCA mensal](images/ipca_linha.png)
+
+2. **Boxplot por ano**  
+   ![Boxplot IPCA por ano](images/ipca_boxplot_ano.png)
+
+3. **Média móvel 12 meses**  
+   ![Média móvel IPCA](images/ipca_media_movel.png)
+
+4. **Picos e quedas identificados**  
+   ![Picos e quedas](images/ipca_picos_quedas.png)
+
+5. **Distribuição por mês (sazonalidade)**  
+   ![IPCA sazonalidade](images/ipca_sazonalidade.png)
+
+6. **Boxplot por mês**  
+   ![Boxplot IPCA por mês](images/ipca_boxplot_mes.png)
+
+7. **Heatmap ano × mês (calendário)**  
+   ![Heatmap IPCA](images/ipca_heatmap.png)
+
 ---
 
 ## 🚀 Expansões futuras
-
-- Adicionar análise do câmbio USD/BRL com agregação mensal
-- Incluir série da taxa Selic Meta
+- Adicionar câmbio USD/BRL (código SGS 1) com agregação mensal
+- Incluir taxa Selic Meta (código SGS 432)
 - Criar dashboard interativo com Streamlit
 - Comparar inflação × juros × câmbio
+
 
 ---
 
