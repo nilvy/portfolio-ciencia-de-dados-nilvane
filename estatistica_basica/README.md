@@ -85,6 +85,14 @@ Utilizamos a [API SGS do Banco Central do Brasil](https://dadosabertos.bcb.gov.b
    ![Heatmap IPCA](images/ipca_heatmap.png)
 
 ---
+## 🔍 Principais insights
+
+- **Tendência suavizada:** a média móvel de 12 meses evidencia ciclos de alta e queda, reduzindo o ruído da variação mensal.
+- **Meses extremos:** os gráficos de picos e quedas destacam os meses com maior e menor inflação no período, úteis para contextualizar choques.
+- **Sazonalidade clara:** a média por mês e o boxplot mensal mostram padrões recorrentes; alguns meses apresentam inflação consistentemente mais alta.
+- **Volatilidade anual:** anos com maior desvio padrão sinalizam ambientes macroeconômicos mais instáveis.
+- **Mapa de calor ano × mês:** facilita comparar rapidamente períodos quentes (inflação elevada) e frios (inflação baixa) ao longo dos anos.
+----
 
 ## 🚀 Expansões futuras
 - Adicionar câmbio USD/BRL (código SGS 1) com agregação mensal
